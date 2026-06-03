@@ -4,22 +4,19 @@ project:
 
 website:
   title: "Faadil Mustun"
-  description: "Research profile"
   navbar:
     background: primary
     right:
-      - text: Home
-        href: index.qmd
-      - text: Research
-        href: research.qmd
+      - text: About
+        href: index.qmd#about
+      - text: News
+        href: index.qmd#news
       - text: Publications
-        href: publications.qmd
-      - text: CV
-        href: cv.qmd
-      - text: Contact
-        href: contact.qmd
-  page-footer:
-    center: "© 2026 Faadil Mustun"
+        href: index.qmd#publications
+      - text: Talks
+        href: index.qmd#invited-talks-presentations
+      - text: Education
+        href: index.qmd#education
 
 format:
   html:

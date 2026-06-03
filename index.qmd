@@ -1,36 +1,34 @@
 ---
 title: "Faadil Mustun"
-subtitle: "Researcher"
 ---
 
-::: {.profile-header}
-::: {.profile-text}
-I am a researcher working at the intersection of [your field] and [your methods].
-My work focuses on [one-sentence summary of your research agenda].
+## About
 
-[Add 2–3 sentences about your current position, affiliations, and what motivates your work.]
-:::
+[Write a short introduction about yourself: who you are, what you work on,
+and where you are based. A few sentences is enough.]
 
-::: {.profile-links}
-[GitHub](https://github.com/faadilmustun){.btn .btn-outline-primary}
-[Google Scholar](https://scholar.google.com/){.btn .btn-outline-primary}
-[ORCID](https://orcid.org/){.btn .btn-outline-primary}
-:::
-:::
+[mustun@bio.ens.psl.eu](mailto:mustun@bio.ens.psl.eu) ·
+[Google Scholar](https://scholar.google.com/) ·
+[GitHub](https://github.com/fmustun)
 
 ## News
 
-- **2026** — [Brief update: paper accepted, new role, grant, etc.]
-- **2025** — [Another milestone]
+- **24/03/2026** — Presented my work to the Neurosection Department Seminar, Institut de Biologie, ENS Paris
+- **12/12/2025** — Our paper Dolph2Vec got accepted at the AI for Non-Human Animal Communication workshop @ NeurIPS 2025
 
-## Selected work
+## Publications
 
-See [Publications](publications.qmd) for the full list. Highlights:
+1. **Mustun, F.**, Coauthor, A. (2026). *[Paper title].* *Venue*.
+   [Link](https://example.com)
 
-- **[Paper title]** — *Venue, Year*. [Preprint](https://example.com) · [Code](https://github.com)
-- **[Paper title]** — *Venue, Year*. [DOI](https://doi.org)
+<!-- Add more entries as you have them. Remove this comment when editing. -->
 
-## Affiliations
+## Invited talks & presentations
 
-- **[Institution / Lab]** — [Role, dates]
-- **[Previous affiliation]** — [Role, dates]
+- **[Talk title]** — *Event, Location, Year*
+- **[Talk title]** — *Event, Year*
+
+## Education
+
+- **[Degree] in [Field]** — [University], [Year]
+- **[Degree] in [Field]** — [University], [Year]
