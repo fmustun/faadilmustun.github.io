@@ -1,0 +1,38 @@
+---
+title: "Research"
+---
+
+## Overview
+
+[One paragraph describing your research program: the problems you care about,
+why they matter, and the approaches you use.]
+
+## Research interests
+
+- **[Topic 1]** — [One sentence on what you study and why.]
+- **[Topic 2]** — [One sentence.]
+- **[Topic 3]** — [One sentence.]
+
+## Current projects
+
+### [Project name]
+
+[Brief description: goal, methods, collaborators, expected outcomes.]
+
+- **Status:** Ongoing
+- **Links:** [Paper](https://example.com) · [Code](https://github.com) · [Data](https://example.com)
+
+### [Project name]
+
+[Brief description.]
+
+- **Status:** Completed / In review
+- **Links:** [Preprint](https://example.com)
+
+## Methods & tools
+
+[List techniques, datasets, software, or experimental systems you work with.]
+
+- Method or tool A
+- Method or tool B
+- Method or tool C

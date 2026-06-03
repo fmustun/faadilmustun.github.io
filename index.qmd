@@ -1,0 +1,36 @@
+---
+title: "Faadil Mustun"
+subtitle: "Researcher"
+---
+
+::: {.profile-header}
+::: {.profile-text}
+I am a researcher working at the intersection of [your field] and [your methods].
+My work focuses on [one-sentence summary of your research agenda].
+
+[Add 2–3 sentences about your current position, affiliations, and what motivates your work.]
+:::
+
+::: {.profile-links}
+[GitHub](https://github.com/faadilmustun){.btn .btn-outline-primary}
+[Google Scholar](https://scholar.google.com/){.btn .btn-outline-primary}
+[ORCID](https://orcid.org/){.btn .btn-outline-primary}
+:::
+:::
+
+## News
+
+- **2026** — [Brief update: paper accepted, new role, grant, etc.]
+- **2025** — [Another milestone]
+
+## Selected work
+
+See [Publications](publications.qmd) for the full list. Highlights:
+
+- **[Paper title]** — *Venue, Year*. [Preprint](https://example.com) · [Code](https://github.com)
+- **[Paper title]** — *Venue, Year*. [DOI](https://doi.org)
+
+## Affiliations
+
+- **[Institution / Lab]** — [Role, dates]
+- **[Previous affiliation]** — [Role, dates]

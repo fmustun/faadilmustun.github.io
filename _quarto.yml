@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Faadil Mustun"
+  description: "Research profile"
+  navbar:
+    background: primary
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Contact
+        href: contact.qmd
+  page-footer:
+    center: "© 2026 Faadil Mustun"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
