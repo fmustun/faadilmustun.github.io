@@ -4,174 +4,41 @@
     "href": "index.html",
     "title": "Faadil Mustun",
     "section": "",
-    "text": "I am a researcher working at the intersection of [your field] and [your methods]. My work focuses on [one-sentence summary of your research agenda].\n[Add 2–3 sentences about your current position, affiliations, and what motivates your work.]\n\n\nGitHub Google Scholar ORCID"
+    "text": "[Write a short introduction about yourself: who you are, what you work on, and where you are based. A few sentences is enough.]\nmustun@bio.ens.psl.eu · Google Scholar · GitHub"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Faadil Mustun",
+    "section": "",
+    "text": "[Write a short introduction about yourself: who you are, what you work on, and where you are based. A few sentences is enough.]\nmustun@bio.ens.psl.eu · Google Scholar · GitHub"
   },
   {
     "objectID": "index.html#news",
     "href": "index.html#news",
     "title": "Faadil Mustun",
     "section": "News",
-    "text": "News\n\n2026 — [Brief update: paper accepted, new role, grant, etc.]\n2025 — [Another milestone]"
+    "text": "News\n\n24/03/2026 — Presented my work to the Neurosection Department Seminar, Institut de Biologie, ENS Paris\n12/12/2025 — Our paper Dolph2Vec got accepted at the AI for Non-Human Animal Communication workshop @ NeurIPS 2025"
   },
   {
-    "objectID": "index.html#selected-work",
-    "href": "index.html#selected-work",
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
     "title": "Faadil Mustun",
-    "section": "Selected work",
-    "text": "Selected work\nSee Publications for the full list. Highlights:\n\n[Paper title] — Venue, Year. Preprint · Code\n[Paper title] — Venue, Year. DOI"
+    "section": "Publications",
+    "text": "Publications\n\nMustun, F., Coauthor, A. (2026). [Paper title]. Venue. Link"
   },
   {
-    "objectID": "index.html#affiliations",
-    "href": "index.html#affiliations",
+    "objectID": "index.html#invited-talks-presentations",
+    "href": "index.html#invited-talks-presentations",
     "title": "Faadil Mustun",
-    "section": "Affiliations",
-    "text": "Affiliations\n\n[Institution / Lab] — [Role, dates]\n[Previous affiliation] — [Role, dates]"
+    "section": "Invited talks & presentations",
+    "text": "Invited talks & presentations\n\n[Talk title] — Event, Location, Year\n[Talk title] — Event, Year"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "I welcome collaborations, questions about my work, and opportunities to connect.\n\n\n\nEmail\nyour.name@institution.edu\n\n\nOffice\n[Building, room], [Institution], [City, Country]\n\n\nGitHub\ngithub.com/faadilmustun\n\n\nGoogle Scholar\nscholar.google.com/…\n\n\nORCID\norcid.org/0000-0000-0000-0000\n\n\nLinkedIn\nlinkedin.com/in/…"
-  },
-  {
-    "objectID": "contact.html#get-in-touch",
-    "href": "contact.html#get-in-touch",
-    "title": "Contact",
-    "section": "",
-    "text": "I welcome collaborations, questions about my work, and opportunities to connect.\n\n\n\nEmail\nyour.name@institution.edu\n\n\nOffice\n[Building, room], [Institution], [City, Country]\n\n\nGitHub\ngithub.com/faadilmustun\n\n\nGoogle Scholar\nscholar.google.com/…\n\n\nORCID\norcid.org/0000-0000-0000-0000\n\n\nLinkedIn\nlinkedin.com/in/…"
-  },
-  {
-    "objectID": "contact.html#mailing-address",
-    "href": "contact.html#mailing-address",
-    "title": "Contact",
-    "section": "Mailing address",
-    "text": "Mailing address\nYour Name\nDepartment / Lab\nInstitution\nStreet address\nCity, Postal code\nCountry"
-  },
-  {
-    "objectID": "contact.html#collaboration",
-    "href": "contact.html#collaboration",
-    "title": "Contact",
-    "section": "Collaboration",
-    "text": "Collaboration\nIf you are interested in collaborating, please email a short description of your project and how our work might align. I aim to respond within [X] business days."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "[One paragraph describing your research program: the problems you care about, why they matter, and the approaches you use.]"
-  },
-  {
-    "objectID": "research.html#overview",
-    "href": "research.html#overview",
-    "title": "Research",
-    "section": "",
-    "text": "[One paragraph describing your research program: the problems you care about, why they matter, and the approaches you use.]"
-  },
-  {
-    "objectID": "research.html#research-interests",
-    "href": "research.html#research-interests",
-    "title": "Research",
-    "section": "Research interests",
-    "text": "Research interests\n\n[Topic 1] — [One sentence on what you study and why.]\n[Topic 2] — [One sentence.]\n[Topic 3] — [One sentence.]"
-  },
-  {
-    "objectID": "research.html#current-projects",
-    "href": "research.html#current-projects",
-    "title": "Research",
-    "section": "Current projects",
-    "text": "Current projects\n\n[Project name]\n[Brief description: goal, methods, collaborators, expected outcomes.]\n\nStatus: Ongoing\nLinks: Paper · Code · Data\n\n\n\n[Project name]\n[Brief description.]\n\nStatus: Completed / In review\nLinks: Preprint"
-  },
-  {
-    "objectID": "research.html#methods-tools",
-    "href": "research.html#methods-tools",
-    "title": "Research",
-    "section": "Methods & tools",
-    "text": "Methods & tools\n[List techniques, datasets, software, or experimental systems you work with.]\n\nMethod or tool A\nMethod or tool B\nMethod or tool C"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "NoteHow to maintain this page\n\n\n\nReplace the examples below with your papers. For each entry, include authors, title, venue, year, and links (DOI, PDF, code, data). Preprints can be marked with Under review or Preprint."
-  },
-  {
-    "objectID": "publications.html#peer-reviewed",
-    "href": "publications.html#peer-reviewed",
-    "title": "Publications",
-    "section": "Peer-reviewed",
-    "text": "Peer-reviewed\n\nMustun, F., Coauthor, A., & Coauthor, B. (2026). [Paper title in sentence case]. Journal or Conference Name. DOI · PDF · Code\nCoauthor, A., Mustun, F., & Coauthor, B. (2025). [Paper title]. Venue. DOI · PDF"
-  },
-  {
-    "objectID": "publications.html#preprints-working-papers",
-    "href": "publications.html#preprints-working-papers",
-    "title": "Publications",
-    "section": "Preprints & working papers",
-    "text": "Preprints & working papers\n\nMustun, F. et al. (2026). [Working paper title]. arXiv preprint. arXiv · PDF"
-  },
-  {
-    "objectID": "publications.html#theses-reports",
-    "href": "publications.html#theses-reports",
-    "title": "Publications",
-    "section": "Theses & reports",
-    "text": "Theses & reports\n\nMustun, F. (20XX). [Thesis title]. [Degree], [University]. PDF"
-  },
-  {
-    "objectID": "publications.html#talks-posters",
-    "href": "publications.html#talks-posters",
-    "title": "Publications",
-    "section": "Talks & posters",
-    "text": "Talks & posters\n\n[Talk title] — Event, Location, Year. Slides\n[Poster title] — Conference, Year. PDF"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "TipDownload\n\n\n\nA PDF version is available: Download CV (PDF)"
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "CV",
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Faadil Mustun",
     "section": "Education",
-    "text": "Education\n\nPh.D. in [Field] — [University], [Year]\n\nDissertation: [Title]\nAdvisor: [Name]\n\nM.Sc. / B.Sc. in [Field] — [University], [Year]"
-  },
-  {
-    "objectID": "cv.html#academic-positions",
-    "href": "cv.html#academic-positions",
-    "title": "CV",
-    "section": "Academic positions",
-    "text": "Academic positions\n\n[Role] — [Institution / Lab], [Start] – [End or Present]"
-  },
-  {
-    "objectID": "cv.html#awards-fellowships",
-    "href": "cv.html#awards-fellowships",
-    "title": "CV",
-    "section": "Awards & fellowships",
-    "text": "Awards & fellowships\n\n[Award name], [Year]\n[Fellowship or grant], [Year]"
-  },
-  {
-    "objectID": "cv.html#teaching",
-    "href": "cv.html#teaching",
-    "title": "CV",
-    "section": "Teaching",
-    "text": "Teaching\n\n[Course code / name] — [Role: instructor / TA], [Term, Year]\n[Course] — [Term, Year]"
-  },
-  {
-    "objectID": "cv.html#service",
-    "href": "cv.html#service",
-    "title": "CV",
-    "section": "Service",
-    "text": "Service\n\nReviewer: [Journals / conferences]\nOrganizing: [Workshops, committees]"
-  },
-  {
-    "objectID": "cv.html#skills",
-    "href": "cv.html#skills",
-    "title": "CV",
-    "section": "Skills",
-    "text": "Skills\n\nLanguages: [e.g. English (native), French (working)]\nProgramming: Python, R, [others]\nOther: [Lab techniques, statistical methods, etc.]\n\nFor full details, see the PDF CV."
+    "text": "Education\n\n[Degree] in [Field] — [University], [Year]\n[Degree] in [Field] — [University], [Year]"
   }
 ]
