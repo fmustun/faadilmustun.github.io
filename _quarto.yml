@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Faadil Mustun"
+  favicon: dolphin_icon.png
   navbar:
     background: primary
     right:
@@ -14,7 +15,7 @@ website:
       - text: Publications
         href: index.qmd#publications
       - text: Talks
-        href: index.qmd#invited-talks-presentations
+        href: index.qmd#selected-talks-posters
       - text: Education
         href: index.qmd#education
 
@@ -24,5 +25,5 @@ format:
     css: styles.css
     toc: false
     grid:
-      body-width: 1150px
+      body-width: 1050px
       margin-width: 80px

@@ -2,50 +2,80 @@
 title: ""
 ---
 
-<div class="hero">
+::: {.home-hero}
 
-<img src="photo_profile.jpeg" class="profile-pic">
+::: {.profile-card .profile-panel}
 
-<div>
+<img src="photo_profile.jpeg" class="profile-pic" alt="Portrait of Faadil Mustun">
 
-# Faadil Mustun
+<h1 class="profile-name">Faadil Mustun</h1>
 
-<p class="subtitle">
+<p class="profile-subtitle">
 PhD Candidate · Univ. Paris Cité / ENS Paris
 </p>
 
-<div class="contact-links">
-<a href="mailto:faadilmustun@hotmail.fr"><i class="bi bi-envelope-fill"></i> Email</a>
-<a href="https://scholar.google.com/citations?user=yCws0CEAAAAJ&hl=en"><i class="bi bi-mortarboard-fill"></i> Scholar</a>
-<a href="https://github.com/fmustun"><i class="bi bi-github"></i> GitHub</a>
-</div>
+<nav class="contact-links" aria-label="Contact links">
+<a href="mailto:faadilmustun@hotmail.fr" aria-label="Email"><i class="bi bi-envelope-fill"></i><span>Email</span></a>
+<a href="https://scholar.google.com/citations?user=yCws0CEAAAAJ&hl=en" aria-label="Google Scholar"><i class="bi bi-mortarboard-fill"></i><span>Scholar</span></a>
+<a href="https://github.com/fmustun" aria-label="GitHub"><i class="bi bi-github"></i><span>GitHub</span></a>
+</nav>
 
-</div>
+:::
 
-</div>
-
+::: {.about-panel}
 
 ## About
 
-I am a PhD candidate at the Institut de Biologie de l'École Normale Supérieure (IBENS) and Université Paris Cité. 
-I hold a Bachelor's degree in Mathematics from Université Pierre et Marie Curie and a Master's degree in Applied Mathematics (Statistics) from Sorbonne Université.
+I am a PhD candidate at the Institut de Biologie de l'École Normale Supérieure (IBENS) and Université Paris Cité. I hold a Bachelor's degree in Mathematics from Université Pierre et Marie Curie and a Master's degree in Applied Mathematics (Statistics) from Sorbonne Université.
 
-My research lies at the intersection of bioacoustics, animal communication, and machine learning. Using large-scale longitudinal acoustic datasets and self-supervised learning approaches, I investigate how dolphin vocalizations encode information about identity, social relationships, and interaction dynamics. 
-More broadly, I am interested in developing computational tools to uncover the principles underlying animal communication systems and their evolution.
-More recently, I have been contributing to the development of multimodal datasets combining acoustic recordings with behavioral annotations extracted from video data.
+My research lies at the intersection of **bioacoustics, animal communication,** and **machine learning**. Using large-scale longitudinal acoustic datasets and self-supervised learning approaches, I investigate how dolphin vocalizations encode information about identity, social relationships, and interaction dynamics.
+
+More broadly, I am interested in developing computational tools to uncover the principles underlying animal communication systems and their evolution. More recently, I have been contributing to the development of multimodal datasets combining acoustic recordings with behavioral annotations extracted from video data.
+
+:::
+
+:::
 
 ## News
 
-- **24/03/2026** — Presented my work to the Neurosection Department Seminar, Institut de Biologie, ENS Paris.
-- **03/02/2026** — Launched the citizen science project [Dolphin Spotting](https://www.zooniverse.org/projects/sumbredolphin/dolphin-spotting) on Zooniverse to collect behavioral annotations from dolphin video recordings.
-- **12/12/2025** — Our paper [Dolph2Vec](https://openreview.net/forum?id=QGAFX5kcR5) got accepted at the AI for Non-Human Animal Communication workshop @ NeurIPS 2025.
-- **14/10/2024** — Presented my research on dolphins with the general public at the Fête de la Science in Paris!
-- **21/03/2023** — Gave a guest lecture on dolphin acoustic communication @ Ben Gurion Univ., Eilat Campus.
+<section class="news-list">
+
+<article class="news-card">
+  <div class="news-meta">24 Mar 2026</div>
+  <h3>Seminar presentation at IBENS</h3>
+  <p>Presented my work at the Neurosection Department Seminar, Institut de Biologie, ENS Paris.</p>
+</article>
+
+<article class="news-card featured">
+  <div class="news-meta">03 Feb 2026</div>
+  <h3>Dolphin Spotting is live</h3>
+  <p>Launched the citizen science project <a href="https://www.zooniverse.org/projects/sumbredolphin/dolphin-spotting">Dolphin Spotting</a> on Zooniverse to collect behavioral annotations from dolphin video recordings.</p>
+</article>
+
+<article class="news-card featured">
+  <div class="news-meta">12 Dec 2025</div>
+  <h3>Dolph2Vec accepted at NeurIPS workshop</h3>
+  <p>Our paper <a href="#dolph2vec">Dolph2Vec</a> was accepted at the <a href="https://aiforanimalcomms.org">AI for Non-Human Animal Communication workshop</a> at NeurIPS 2025.</p>
+</article>
+
+<article class="news-card">
+  <div class="news-meta">14 Oct 2024</div>
+  <h3>Sharing dolphin communication research with the public</h3>
+  <p>Presented our research on dolphin communication to the general public at the Fête de la Science in Paris.</p>
+</article>
+
+<article class="news-card">
+  <div class="news-meta">21 Mar 2023</div>
+  <h3>Guest lecture on dolphin communication</h3>
+  <p>Gave a guest lecture on dolphin acoustic communication at Ben-Gurion University, Eilat Campus.</p>
+</article>
+
+</section>
 
 
 ## Publications
 
-::: {.columns .pub-entry}
+::: {.columns .pub-card}
 
 ::: {.column width="30%"}
 
@@ -55,22 +85,23 @@ More recently, I have been contributing to the development of multimodal dataset
 
 ::: {.column width="70%"}
 
-### OpenWhistle
+<h3>OpenWhistle: A Large-Scale Longitudinal Dataset and Benchmark of Bottlenose Dolphin Vocalizations <span class="pub-status under-review">Under review</span></h3>
 
-**F. Mustun**, C. Semenzin, R. Dessì, P. Robin Guerrero, P. Orhan, A. Emanuelli, E. Rossi, Y. Lakretz, G. de Polavieja, G. Sumbre.
+**F. Mustun**, C. Semenzin (*equal contribution*), R. Dessì, P. Robin Guerrero, P. Orhan, A. Emanuelli, E. Rossi, Y. Lakretz, G. de Polavieja, G. Sumbre.
 
-*OpenWhistle: A Large-Scale Longitudinal Dataset and Benchmark of Bottlenose Dolphin Vocalizations.* Under review.
+OpenWhistle introduces a large-scale longitudinal dataset of approximately 180,000 bottlenose dolphin whistles recorded over five years. The dataset includes expert annotations and benchmarks for whistle-type detection and classification, providing a resource for the development and evaluation of machine learning methods in dolphin bioacoustics.
 
-OpenWhistle introduces a large-scale longitudinal dataset of approximately 180,000 bottlenose dolphin whistles recorded over five years. The dataset includes expert annotations and standardized benchmarks for whistle detection and classification, providing a resource for the development and evaluation of machine learning methods in dolphin bioacoustics.
-
-
+::: {.pub-links}
+[Preprint coming soon](#){.pub-button .secondary}
+[Dataset coming soon](#){.pub-button .secondary}
+[Code coming soon](#){.pub-button .secondary}
 :::
 
 :::
 
----
+:::
 
-::: {.columns .pub-entry}
+::: {#dolph2vec .columns .pub-card}
 
 ::: {.column width="30%"}
 
@@ -80,23 +111,24 @@ OpenWhistle introduces a large-scale longitudinal dataset of approximately 180,0
 
 ::: {.column width="70%"}
 
-### Dolph2Vec
+<h3>Dolph2Vec: Self-Supervised Representations of Dolphin Vocalizations <span class="pub-status workshop">Workshop paper</span></h3>
 
 C. Semenzin, **F. Mustun**, R. Dessì, A. Emanuelli, P. Orhan, Y. Lakretz, G. de Polavieja, G. Sumbre.
 
-*Dolph2Vec: Self-Supervised Representations of Dolphin Vocalizations.* AI for Non-Human Animal Communication Workshop @ NeurIPS 2025.
+AI for Non-Human Animal Communication Workshop @ NeurIPS 2025.
 
 Dolph2Vec is a self-supervised learning framework trained directly on dolphin vocalizations. The learned representations outperform general-purpose bioacoustic embeddings on dolphin-specific tasks and capture biologically meaningful acoustic structure.
 
-[Paper](https://openreview.net/forum?id=QGAFX5kcR5) · [Code](https://github.com/chiarasemenzin/Dolph2Vec)
-
+::: {.pub-links}
+[Paper](https://openreview.net/forum?id=QGAFX5kcR5){.pub-button}
+[Code](https://github.com/chiarasemenzin/Dolph2Vec){.pub-button .secondary}
 :::
 
 :::
 
----
+:::
 
-::: {.columns .pub-entry}
+::: {.columns .pub-card}
 
 ::: {.column width="30%"}
 
@@ -106,45 +138,89 @@ Dolph2Vec is a self-supervised learning framework trained directly on dolphin vo
 
 ::: {.column width="70%"}
 
-### Signature Whistle Variability
+<h3>Whistle Variability and Social Acoustic Interactions in Bottlenose Dolphins <span class="pub-status under-review">Under review</span></h3>
 
-**F. Mustun* **, C. Semenzin*, D. Rance, E. Marachlian, Z. Guillerm, A. Mancini, I. Bouaziz, E. Fleck, N. Shashar, G. de Polavieja, G. Sumbre.
-
-*Whistle Variability and Social Acoustic Interactions in Bottlenose Dolphins.* Under review.
+**F. Mustun**, C. Semenzin (*equal contribution*), D. Rance, E. Marachlian, Z. Guillerm, A. Mancini, I. Bouaziz, E. Fleck, N. Shashar, G. de Polavieja, G. Sumbre.
 
 This work shows that dolphin signature whistles exhibit structured within-individual variability rather than stereotyped production. By modeling transitions between whistle variants, we reveal non-random acoustic interaction patterns that form a modular social communication network.
 
-[Preprint](https://www.biorxiv.org/content/10.1101/2024.10.15.618471v1) · [Code](https://github.com/zebrain-lab/Dolphins)
-
+::: {.pub-links}
+[Preprint](https://www.biorxiv.org/content/10.1101/2024.10.15.618471v1){.pub-button}
+[Code](https://github.com/zebrain-lab/Dolphins){.pub-button .secondary}
 :::
 
 :::
 
----
-
-## Publications
-
-1. **F. Mustun**, C. Semenzin, R. Dessì, P. Robin Guerrero, P. Orhan, A. Emanuelli, E. Rossi, Y. Lakretz, G. de Polavieja, G. Sumbre. 
-   *OpenWhistle: A Large-Scale Longitudinal Dataset and Benchmark of Bottlenose Dolphin Vocalizations.* Under review.
-2. Semenzin, C., **Mustun, F.**, Dessì, R., Emanuelli, A., Orhan, P., Lakretz, Y., de Polavieja, G., Sumbre, G. (2025). 
-   *Dolph2Vec: Self-Supervised Representations of Dolphin Vocalizations.* [Preprint](https://openreview.net/forum?id=QGAFX5kcR5)
-3. **Mustun, F.* **, Semenzin, C.\*, Rance, D., Marachlian, E., Guillerm, Z., Mancini, A., Bouaziz, I., Fleck, E., Shashar, N., de Polavieja, G., Sumbre, G. (2024).
-   *Whistle variability and social acoustic interactions in bottlenose dolphins.* Under review. [Preprint](https://www.biorxiv.org/content/10.1101/2024.10.15.618471v1)
-
+:::
 
 ## Selected Talks & Posters
 
-- 2025 — AI for Non-Human Animal Communication workshop @ NeurIPS 2025, San Diego
-- 2023, 2024, 2025, 2026 — Neurosection Department Seminar, Institut de Biologie, ENS Paris
-- 2023 — Protolang, Rome
-- 2023, 2024 — NeuroFrance, Lyon 
-- 2022 — International Congress for Neuroethology, Lisbon
+::: {.talk-list}
+
+::: {.talk-item}
+::: {.talk-main}
+### AI for Non-Human Animal Communication workshop <a class="talk-link" href="https://aiforanimalcomms.org" target="_blank" rel="noopener" aria-label="AI for Non-Human Animal Communication workshop link"><i class="bi bi-link-45deg"></i></a>
+
+NeurIPS 2025, San Diego.
+:::
+::: {.talk-year}
+2025
+:::
+:::
+
+::: {.talk-item}
+::: {.talk-main}
+### Neurosection Department Seminar
+
+Institut de Biologie, ENS Paris.
+:::
+::: {.talk-year}
+2023–2026
+:::
+:::
+
+::: {.talk-item}
+::: {.talk-main}
+### Protolang <a class="talk-link" href="https://sites.google.com/view/protolang8/home" target="_blank" rel="noopener" aria-label="Protolang link"><i class="bi bi-link-45deg"></i></a>
+
+Rome.
+:::
+::: {.talk-year}
+2023
+:::
+:::
+
+::: {.talk-item}
+::: {.talk-main}
+### NeuroFrance
+
+Lyon.
+:::
+::: {.talk-year}
+2023–2024
+:::
+:::
+
+::: {.talk-item}
+::: {.talk-main}
+### International Congress for Neuroethology
+
+Lisbon.
+:::
+::: {.talk-year}
+2022
+:::
+:::
+
+:::
 
 ## Education
 
-- **PhD Student** — Université Paris Cité / École Normale Supériure - Paris, 2022-Present
-- **Master’s Degree in Applied Mathematics (Specialization: Statistics)** — Sorbonne Universités - Paris, 2019
-- **Bachelor’s Degree in Mathematics** — Université Pierre et Marie Curie - Paris, 2016
+**PhD Student** — Université Paris Cité / École Normale Supérieure - Paris, 2022-Present
+
+**Master’s Degree in Applied Mathematics (Specialization: Statistics)** — Sorbonne Universités - Paris, 2019
+
+**Bachelor’s Degree in Mathematics** — Université Pierre et Marie Curie - Paris, 2016
 
 ## Research Experience
 
