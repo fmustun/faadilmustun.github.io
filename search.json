@@ -2,56 +2,49 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Faadil Mustun",
+    "title": "\nFaadil Mustun\n",
     "section": "",
-    "text": "PhD Candidate · Univ. Paris Cité / ENS Paris\n\n\n Email  Scholar  GitHub"
+    "text": "PhD Candidate · Univ. Paris Cité / ENS Paris\n\n\nEmail Scholar GitHub\n\n\n\n\nI am a PhD candidate at the Institut de Biologie de l’École Normale Supérieure (IBENS) and Université Paris Cité. I hold a Bachelor’s degree in Mathematics from Université Pierre et Marie Curie and a Master’s degree in Applied Mathematics (Statistics) from Sorbonne Université.\nMy research lies at the intersection of bioacoustics, animal communication, and machine learning. Using large-scale longitudinal acoustic datasets and self-supervised learning approaches, I investigate how dolphin vocalizations encode information about identity, social relationships, and interaction dynamics.\nMore broadly, I am interested in developing computational tools to uncover the principles underlying animal communication systems and their evolution. More recently, I have been contributing to the development of multimodal datasets combining acoustic recordings with behavioral annotations extracted from video data."
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
-    "title": "Faadil Mustun",
-    "section": "About",
-    "text": "About\nI am a PhD candidate at the Institut de Biologie de l’École Normale Supérieure (IBENS) and Université Paris Cité. I hold a Bachelor’s degree in Mathematics from Université Pierre et Marie Curie and a Master’s degree in Applied Mathematics (Statistics) from Sorbonne Université.\nMy research lies at the intersection of bioacoustics, animal communication, and machine learning. Using large-scale longitudinal acoustic datasets and self-supervised learning approaches, I investigate how dolphin vocalizations encode information about identity, social relationships, and interaction dynamics. More broadly, I am interested in developing computational tools to uncover the principles underlying animal communication systems and their evolution. More recently, I have been contributing to the development of multimodal datasets combining acoustic recordings with behavioral annotations extracted from video data."
+    "title": "\nFaadil Mustun\n",
+    "section": "",
+    "text": "I am a PhD candidate at the Institut de Biologie de l’École Normale Supérieure (IBENS) and Université Paris Cité. I hold a Bachelor’s degree in Mathematics from Université Pierre et Marie Curie and a Master’s degree in Applied Mathematics (Statistics) from Sorbonne Université.\nMy research lies at the intersection of bioacoustics, animal communication, and machine learning. Using large-scale longitudinal acoustic datasets and self-supervised learning approaches, I investigate how dolphin vocalizations encode information about identity, social relationships, and interaction dynamics.\nMore broadly, I am interested in developing computational tools to uncover the principles underlying animal communication systems and their evolution. More recently, I have been contributing to the development of multimodal datasets combining acoustic recordings with behavioral annotations extracted from video data."
   },
   {
     "objectID": "index.html#news",
     "href": "index.html#news",
-    "title": "Faadil Mustun",
+    "title": "\nFaadil Mustun\n",
     "section": "News",
-    "text": "News\n\n24/03/2026 — Presented my work to the Neurosection Department Seminar, Institut de Biologie, ENS Paris.\n03/02/2026 — Launched the citizen science project Dolphin Spotting on Zooniverse to collect behavioral annotations from dolphin video recordings.\n12/12/2025 — Our paper Dolph2Vec got accepted at the AI for Non-Human Animal Communication workshop @ NeurIPS 2025.\n14/10/2024 — Presented my research on dolphins with the general public at the Fête de la Science in Paris!\n21/03/2023 — Gave a guest lecture on dolphin acoustic communication @ Ben Gurion Univ., Eilat Campus."
+    "text": "News\n\n\n\n24 Mar 2026\n\n\nSeminar presentation at IBENS\n\n\nPresented my work at the Neurosection Department Seminar, Institut de Biologie, ENS Paris.\n\n\n\n\n03 Feb 2026\n\n\nDolphin Spotting is live\n\n\nLaunched the citizen science project Dolphin Spotting on Zooniverse to collect behavioral annotations from dolphin video recordings.\n\n\n\n\n12 Dec 2025\n\n\nDolph2Vec accepted at NeurIPS workshop\n\n\nOur paper Dolph2Vec was accepted at the AI for Non-Human Animal Communication workshop at NeurIPS 2025.\n\n\n\n\n14 Oct 2024\n\n\nSharing dolphin communication research with the public\n\n\nPresented our research on dolphin communication to the general public at the Fête de la Science in Paris.\n\n\n\n\n21 Mar 2023\n\n\nGuest lecture on dolphin communication\n\n\nGave a guest lecture on dolphin acoustic communication at Ben-Gurion University, Eilat Campus."
   },
   {
     "objectID": "index.html#publications",
     "href": "index.html#publications",
-    "title": "Faadil Mustun",
+    "title": "\nFaadil Mustun\n",
     "section": "Publications",
-    "text": "Publications\n\n\n\n\n\nOpenWhistle\nF. Mustun, C. Semenzin, R. Dessì, P. Robin Guerrero, P. Orhan, A. Emanuelli, E. Rossi, Y. Lakretz, G. de Polavieja, G. Sumbre.\nOpenWhistle: A Large-Scale Longitudinal Dataset and Benchmark of Bottlenose Dolphin Vocalizations. Under review.\nOpenWhistle introduces a large-scale longitudinal dataset of approximately 180,000 bottlenose dolphin whistles recorded over five years. The dataset includes expert annotations and standardized benchmarks for whistle detection and classification, providing a resource for the development and evaluation of machine learning methods in dolphin bioacoustics.\n\n\n\n\n\n\n\n\n\nDolph2Vec\nC. Semenzin, F. Mustun, R. Dessì, A. Emanuelli, P. Orhan, Y. Lakretz, G. de Polavieja, G. Sumbre.\nDolph2Vec: Self-Supervised Representations of Dolphin Vocalizations. AI for Non-Human Animal Communication Workshop @ NeurIPS 2025.\nDolph2Vec is a self-supervised learning framework trained directly on dolphin vocalizations. The learned representations outperform general-purpose bioacoustic embeddings on dolphin-specific tasks and capture biologically meaningful acoustic structure.\nPaper · Code\n\n\n\n\n\n\n\n\n\nSignature Whistle Variability\nF. Mustun* , C. Semenzin*, D. Rance, E. Marachlian, Z. Guillerm, A. Mancini, I. Bouaziz, E. Fleck, N. Shashar, G. de Polavieja, G. Sumbre.\nWhistle Variability and Social Acoustic Interactions in Bottlenose Dolphins. Under review.\nThis work shows that dolphin signature whistles exhibit structured within-individual variability rather than stereotyped production. By modeling transitions between whistle variants, we reveal non-random acoustic interaction patterns that form a modular social communication network.\nPreprint · Code"
-  },
-  {
-    "objectID": "index.html#publications-1",
-    "href": "index.html#publications-1",
-    "title": "Faadil Mustun",
-    "section": "Publications",
-    "text": "Publications\n\nF. Mustun, C. Semenzin, R. Dessì, P. Robin Guerrero, P. Orhan, A. Emanuelli, E. Rossi, Y. Lakretz, G. de Polavieja, G. Sumbre. OpenWhistle: A Large-Scale Longitudinal Dataset and Benchmark of Bottlenose Dolphin Vocalizations. Under review.\nSemenzin, C., Mustun, F., Dessì, R., Emanuelli, A., Orhan, P., Lakretz, Y., de Polavieja, G., Sumbre, G. (2025). Dolph2Vec: Self-Supervised Representations of Dolphin Vocalizations. Preprint\nMustun, F.* , Semenzin, C.*, Rance, D., Marachlian, E., Guillerm, Z., Mancini, A., Bouaziz, I., Fleck, E., Shashar, N., de Polavieja, G., Sumbre, G. (2024). Whistle variability and social acoustic interactions in bottlenose dolphins. Under review. Preprint"
+    "text": "Publications\n\n\n\n\n\nOpenWhistle: A Large-Scale Longitudinal Dataset and Benchmark of Bottlenose Dolphin Vocalizations Under review\n\nF. Mustun, C. Semenzin (equal contribution), R. Dessì, P. Robin Guerrero, P. Orhan, A. Emanuelli, E. Rossi, Y. Lakretz, G. de Polavieja, G. Sumbre.\nOpenWhistle introduces a large-scale longitudinal dataset of approximately 180,000 bottlenose dolphin whistles recorded over five years. The dataset includes expert annotations and benchmarks for whistle-type detection and classification, providing a resource for the development and evaluation of machine learning methods in dolphin bioacoustics.\n\nPreprint coming soon Dataset coming soon Code coming soon\n\n\n\n\n\n\n\n\nDolph2Vec: Self-Supervised Representations of Dolphin Vocalizations Workshop paper\n\nC. Semenzin, F. Mustun, R. Dessì, A. Emanuelli, P. Orhan, Y. Lakretz, G. de Polavieja, G. Sumbre.\nAI for Non-Human Animal Communication Workshop @ NeurIPS 2025.\nDolph2Vec is a self-supervised learning framework trained directly on dolphin vocalizations. The learned representations outperform general-purpose bioacoustic embeddings on dolphin-specific tasks and capture biologically meaningful acoustic structure.\n\nPaper Code\n\n\n\n\n\n\n\n\nWhistle Variability and Social Acoustic Interactions in Bottlenose Dolphins Under review\n\nF. Mustun, C. Semenzin (equal contribution), D. Rance, E. Marachlian, Z. Guillerm, A. Mancini, I. Bouaziz, E. Fleck, N. Shashar, G. de Polavieja, G. Sumbre.\nThis work shows that dolphin signature whistles exhibit structured within-individual variability rather than stereotyped production. By modeling transitions between whistle variants, we reveal non-random acoustic interaction patterns that form a modular social communication network.\n\nPreprint Code"
   },
   {
     "objectID": "index.html#selected-talks-posters",
     "href": "index.html#selected-talks-posters",
-    "title": "Faadil Mustun",
+    "title": "\nFaadil Mustun\n",
     "section": "Selected Talks & Posters",
-    "text": "Selected Talks & Posters\n\n2025 — AI for Non-Human Animal Communication workshop @ NeurIPS 2025, San Diego\n2023, 2024, 2025, 2026 — Neurosection Department Seminar, Institut de Biologie, ENS Paris\n2023 — Protolang, Rome\n2023, 2024 — NeuroFrance, Lyon\n2022 — International Congress for Neuroethology, Lisbon"
+    "text": "Selected Talks & Posters\n\n\n\nAI for Non-Human Animal Communication workshop \nNeurIPS 2025, San Diego.\n\n\n2025\n\n\n\n\nNeurosection Department Seminar\nInstitut de Biologie, ENS Paris.\n\n\n2023–2026\n\n\n\n\nProtolang \nRome.\n\n\n2023\n\n\n\n\nNeuroFrance\nLyon.\n\n\n2023–2024\n\n\n\n\nInternational Congress for Neuroethology\nLisbon.\n\n\n2022"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Faadil Mustun",
+    "title": "\nFaadil Mustun\n",
     "section": "Education",
-    "text": "Education\n\nPhD Student — Université Paris Cité / École Normale Supériure - Paris, 2022-Present\nMaster’s Degree in Applied Mathematics (Specialization: Statistics) — Sorbonne Universités - Paris, 2019\nBachelor’s Degree in Mathematics — Université Pierre et Marie Curie - Paris, 2016"
+    "text": "Education\nPhD Student — Université Paris Cité / École Normale Supérieure - Paris, 2022-Present\nMaster’s Degree in Applied Mathematics (Specialization: Statistics) — Sorbonne Universités - Paris, 2019\nBachelor’s Degree in Mathematics — Université Pierre et Marie Curie - Paris, 2016"
   },
   {
     "objectID": "index.html#research-experience",
     "href": "index.html#research-experience",
-    "title": "Faadil Mustun",
+    "title": "\nFaadil Mustun\n",
     "section": "Research Experience",
     "text": "Research Experience\nPhD Candidate, Institut de Biologie de l’École Normale Supérieure (IBENS), Université Paris Cité, Paris, France (2022–Present)\nResearch on dolphin communication, bioacoustics, and machine learning.\nStatistical Engineer, INSERM / IBENS, Paris, France (2021–2022)\nDeveloped computational methods for dolphin vocalization detection, classification, and sequence analysis.\nData Science Intern, Audentiel Conseil R&D, Boulogne-Billancourt, France (2019)\nWorked on hyperparameter optimization and machine learning model selection."
   }
