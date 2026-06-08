@@ -1,18 +1,34 @@
 body {
   font-family: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
   line-height: 1.65;
-  max-width: 42rem;
 }
 
+/* Wider centered content */
 main.content {
-  margin-top: 1.5rem;
+  max-width: 1400px;
+  margin: 1.5rem auto 0 auto;
 }
 
+/* Center page title */
 h1.title {
-  font-size: 1.75rem;
-  margin-bottom: 1.5rem;
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 0.75rem;
 }
 
+/* Contact icons */
+.contact-links {
+  text-align: center;
+  font-size: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.contact-links a {
+  margin: 0 0.7rem;
+  text-decoration: none;
+}
+
+/* Section titles */
 h2 {
   margin-top: 2.25rem;
   margin-bottom: 0.75rem;
@@ -40,4 +56,77 @@ main p {
 
 .navbar-title {
   font-weight: 700;
+}
+
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.profile-pic {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #e2e6ea;
+}
+
+.hero h1 {
+  margin-bottom: 0.5rem;
+}
+
+.contact-links {
+  font-size: 1.1rem;
+}
+
+.contact-links a {
+  margin-right: 1rem;
+  text-decoration: none;
+}
+
+.subtitle {
+  color: #666;
+  margin-bottom: 0.8rem;
+}
+
+/* Publication entries: image left, text right */
+.pub-entry {
+  display: grid !important;
+  grid-template-columns: 400px 1fr;
+  gap: 4rem;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.pub-entry > .column {
+  width: auto !important;
+  flex: none !important;
+  overflow: visible;
+  min-width: 0;
+}
+
+.pub-entry > .column:first-child {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pub-entry > .column:first-child p {
+  margin: 0;
+  width: 100%;
+}
+
+.pub-entry img {
+  width: 100%;
+  max-width: 380px;
+  height: auto;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+.pub-entry h3 {
+  margin-top: 0;
 }

@@ -23,3 +23,6 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
+    grid:
+      body-width: 1150px
+      margin-width: 80px
