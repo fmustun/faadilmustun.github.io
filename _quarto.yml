@@ -27,3 +27,8 @@ format:
     grid:
       body-width: 1050px
       margin-width: 80px
+    metadata:
+      description: >
+        Faadil Mustun is a PhD candidate in computational biology at
+        ENS Paris and Université Paris Cité studying dolphin
+        communication using machine learning and bioacoustics.
