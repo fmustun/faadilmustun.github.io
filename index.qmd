@@ -76,6 +76,7 @@ More broadly, I am interested in developing computational tools to uncover the p
 
 ## Publications
 
+<!--
 ::: {.columns .pub-card}
 
 ::: {.column width="30%"}
@@ -101,6 +102,7 @@ OpenWhistle introduces a large-scale longitudinal dataset of approximately 180,0
 :::
 
 :::
+-->
 
 ::: {#dolph2vec .columns .pub-card}
 
